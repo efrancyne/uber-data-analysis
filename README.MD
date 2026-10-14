@@ -1,5 +1,3 @@
-```markdown
-
 # Uber data analysis
 
 
@@ -49,4 +47,4 @@ Os testes adotarão nível de significância de 5%, com apresentação das hipó
 
 ### Interpretação e comunicação dos resultados
 Os achados serão organizados em um relatório executivo que conectará as análises às perguntas de negócio. As recomendações serão apresentadas como oportunidades de investigação ou ações a serem testadas, sem atribuir causalidade às associações observadas. O relatório também documentará as decisões de tratamento e as limitações da base, permitindo a compreensão e a reprodução da análise.
-```
+
