@@ -1,4 +1,8 @@
 ```markdown
+
+# Uber data analysis
+
+
 Esse trabalho tem como objetivo colocar em prática os conhecimentos obtidos na disciplina de ciencias dos dados e inteligencia empresarial. para o desenvolvimento desse trabalho, estou usando um dataset disponivel no kaggle, intitulado "Uber Data Analytics Dashboard", disponível em: https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard. a motivação desse trabalho surgiu com o objetivo de identificar padrões de demanda, cancelamentos e características das viagens. A análise dessas informações pode apoiar a identificação de dificuldades operacionais e de oportunidades para melhorar a experiência dos usuários. Nesse contexto, este projeto, utiliza uma base pública sobre solicitações de corridas para aplicar técnicas de análise estatística e explorar como os resultados podem contribuir para decisões de negócio.
 
 ## Descrição do dataset
