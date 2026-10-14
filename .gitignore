@@ -1,0 +1,4 @@
+venv/
+.vscode/
+dados/dados_brutos/*.csv
+dados/dados_preprocessados/*.csv
